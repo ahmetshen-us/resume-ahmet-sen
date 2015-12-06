@@ -1,0 +1,128 @@
+%!Adobe-FontList 1.15
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AvenirLTStd-Black
+FamilyName:Avenir LT Std
+StyleName:95 Black
+FullName:Avenir LT Std 95 Black
+MenuName:Avenir LT Std 65 Medium
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\Steve Harris\Desktop\Exercise Files\Assets\Modern Resume\Document fonts\AvenirLTStd-Black.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:28688
+FileModTime:1188268160
+WeightClass:750
+WidthClass:5
+AngleClass:0
+DesignSize:120
+NameArray:0,Mac,4,Avenir LT Std 95 Black
+NameArray:0,Win,1,Avenir LT Std 65 Medium
+NameArray:0,Win,16,Avenir LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AvenirLTStd-Book
+FamilyName:Avenir LT Std
+StyleName:45 Book
+FullName:Avenir LT Std 45 Book
+MenuName:Avenir LT Std 45 Book
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Steve Harris\Desktop\Exercise Files\Assets\Modern Resume\Document fonts\AvenirLTStd-Book.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:28288
+FileModTime:1188268160
+WeightClass:350
+WidthClass:5
+AngleClass:0
+DesignSize:120
+NameArray:0,Mac,4,Avenir LT Std 45 Book
+NameArray:0,Win,1,Avenir LT Std 45 Book
+NameArray:0,Win,16,Avenir LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AvenirLTStd-Heavy
+FamilyName:Avenir LT Std
+StyleName:85 Heavy
+FullName:Avenir LT Std 85 Heavy
+MenuName:Avenir LT Std 55 Roman
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\Steve Harris\Desktop\Exercise Files\Assets\Modern Resume\Document fonts\AvenirLTStd-Heavy.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:28508
+FileModTime:1188268160
+WeightClass:700
+WidthClass:5
+AngleClass:0
+DesignSize:120
+NameArray:0,Mac,4,Avenir LT Std 85 Heavy
+NameArray:0,Win,1,Avenir LT Std 55 Roman
+NameArray:0,Win,16,Avenir LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AvenirLTStd-HeavyOblique
+FamilyName:Avenir LT Std
+StyleName:85 Heavy Oblique
+FullName:Avenir LT Std 85 Heavy Oblique
+MenuName:Avenir LT Std 55 Roman
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:C:\Users\Steve Harris\Desktop\Exercise Files\Assets\Modern Resume\Document fonts\AvenirLTStd-HeavyOblique.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:29720
+FileModTime:1188268160
+WeightClass:700
+WidthClass:5
+AngleClass:1
+DesignSize:120
+NameArray:0,Mac,4,Avenir LT Std 85 Heavy Oblique
+NameArray:0,Win,1,Avenir LT Std 55 Roman
+NameArray:0,Win,16,Avenir LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AvenirLTStd-Light
+FamilyName:Avenir LT Std
+StyleName:35 Light
+FullName:Avenir LT Std 35 Light
+MenuName:Avenir LT Std 35 Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Steve Harris\Desktop\Exercise Files\Assets\Modern Resume\Document fonts\AvenirLTStd-Light.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:28084
+FileModTime:1188268160
+WeightClass:300
+WidthClass:5
+AngleClass:0
+DesignSize:120
+NameArray:0,Mac,4,Avenir LT Std 35 Light
+NameArray:0,Win,1,Avenir LT Std 35 Light
+NameArray:0,Win,16,Avenir LT Std
+%EndFont
+
