@@ -81,7 +81,20 @@
       ]
     }
   ],
-  "awards": [],
+  "awards": [{
+      "title": "Ranked the 742nd among 1.45 million",
+      "date": "2009-06-15",
+      "awarder": "Turkey National University Entrance Exams",
+      "summary": "Ranked the 742nd among 1.45 million people, National University Entrance Exams, Turkey, 2009."
+    },
+    {
+      "title": "1st place",
+      "date": "2015-01-01",
+      "awarder": "www.uschess.org",
+      "summary": "Won the 1st place at the 5th Annual Hartford Open Chess Tournament"
+    }
+
+    ],
   "publications": [],
   "skills": [
     {
@@ -90,7 +103,14 @@
       "keywords": [
         "Java",
         "Android",
-        ""
+        "PHP",
+        "LAMP",
+        "JavaScript",
+        "OOP",
+        "Design Patterns",
+        "SQL",
+        "HTML",
+        "CSS"
       ]
     }
   ],
