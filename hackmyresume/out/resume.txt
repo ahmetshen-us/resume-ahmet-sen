@@ -1,0 +1,40 @@
+Ahmet Şen
+Email: ahmetshen.us@gmail.com
+Tel: 724-638-7367
+Web: http://www.ahmetshen.us/
+================================================================================
+
+Has earned B.S. in Computer Science from Quinnipiac University, Hamden, CT in 2015. Recent grad looking for a Software Developer position.
+
+SKILLS -------------------------------------------------------------------------
+
+  - Programming: Java Android PHP LAMP JavaScript OOP Design Patterns SQL HTML CSS 
+
+EMPLOYMENT ---------------------------------------------------------------------
+
+Developer Intern, A100-Apprenticeship Program (2014-05 -- 2014-08)
+Worked with PHP, LAMP, JavaScript, HTML, CSS
+  - Programmed front-end and back-end with PHP, LAMP, JavaScript
+  - A100 Website Revamp (2014): Made improvements to the A100 Program website
+  - A100 Application Form Creation (2014): Programmed form user input validation
+
+Software Engineer, Quinnipiac University (2012-12 -- 2015-05)
+Software Development with OOP and Design Patterns following Agile Development Methods
+  - Tetris Game with Intensive OOP: Created Java game following OOPs; using Design Patterns and UML tools.
+  - "Humans of New York Pictures" Application: Created Java Application using JDBC
+  - Tank Wars Game: Worked on this ongoing Java game project following Agile Development Methodology and worked as the Scrum Master of my team. Also used Git and Asana. Made improvements to poorly coded application using OOPs.
+
+
+EDUCATION ----------------------------------------------------------------------
+
+Quinnipiac University (2012-01 — 2015-05)
+
+
+SERVICE ------------------------------------------------------------------------
+
+RECOGNITION --------------------------------------------------------------------
+
+Ranked the 742nd among 1.45 million, Turkey National University Entrance Exams (Jun 2009)
+Ranked the 742nd among 1.45 million people, National University Entrance Exams, Turkey, 2009.
+1st place, www.uschess.org (Jan 2015)
+Won the 1st place at the 5th Annual Hartford Open Chess Tournament
