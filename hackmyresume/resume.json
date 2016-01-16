@@ -105,7 +105,7 @@
   "publications": [],
   "skills": [
     {
-      "name": "Software Engineering",
+      "name": "Software Developer",
       "level": "Junior / Mid-Level",
       "keywords": [
         "Programming",
@@ -116,6 +116,7 @@
         "Agile software methodology",
         "Design Patterns",
         "SDLC - Software Development Life Cycle",
+        "APIs",
         "Java",
         "Java2EE",
         "Web Technologies",
@@ -129,7 +130,8 @@
         "jQuery",
         "Node.js",
         "JSON",
-        "SQL - MySQL"
+        "SQL - MySQL",
+        "Version Control - Git & GitHub"
       ]
     },
     {
@@ -153,7 +155,8 @@
         "Scripting & Documentation",
         "Unix",
         "Linux",
-        "Windows"
+        "Windows",
+        "Networking"
       ]
     }
   ],
