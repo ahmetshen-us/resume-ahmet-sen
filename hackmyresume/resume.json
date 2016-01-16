@@ -6,9 +6,10 @@
     "email": "ahmetshen.us@gmail.com",
     "phone": "724-638-7367",
     "website": "http://www.ahmetshen.us/",
-    "summary": "Has earned B.S. in Computer Science from Quinnipiac University, Hamden, CT in 2015. Recent grad looking for a Software Developer position.",
+    "summary": "Qualifications Summary: \nGained strong coding skills while working on projects by following Object Oriented Design principles, using Algorithms, and Design Patterns\nAdapted clean and effective coding skills while working on  projects while being organized and detail oriented.\nServed as the Scrum Master of two projects and worked collaboratively with the project team by using Git and Agile Methodology while strategizing and prioritizing effectively to accomplish multiple tasks and stay calm under pressure\nDeveloped and programmed Java, Android, and Web applications",
+
     "location": {
-      "address": "19 Gaston Ave #2",
+      "address": "19 Gaston Ave 2nd Floor",
       "postalCode": "07026",
       "city": "Garfield",
       "countryCode": "United States",
@@ -37,13 +38,14 @@
       "company": "Quinnipiac University",
       "position": "Software Engineer",
       "website": "https://www.quinnipiac.edu/",
-      "startDate": "2012-12-01",
+      "startDate": "2013-01-15",
       "endDate": "2015-05-15",
       "summary": "Software Development with OOP and Design Patterns following Agile Development Methods",
       "highlights": [
         "Tetris Game with Intensive OOP: Created Java game following OOPs; using Design Patterns and UML tools.",
         "\"Humans of New York Pictures\" Application: Created Java Application using JDBC",
-        "Tank Wars Game: Worked on this ongoing Java game project following Agile Development Methodology and worked as the Scrum Master of my team. Also used Git and Asana. Made improvements to poorly coded application using OOPs."
+        "Tank Wars Game: Worked on this ongoing Java game project following Agile Development Methodology and worked as the Scrum Master of my team. Also used Git and Asana. Made improvements to poorly coded application using OOPs.",
+        ""
       ]
     },
     {
@@ -65,7 +67,7 @@
     {
       "institution": "Quinnipiac University",
       "area": "Computer Science",
-      "studyType": "Bachelor",
+      "studyType": "Bachelor`s of Science",
       "startDate": "2012-01-15",
       "endDate": "2015-05-15",
       "gpa": "3.74",
@@ -92,25 +94,58 @@
       "date": "2015-01-01",
       "awarder": "www.uschess.org",
       "summary": "Won the 1st place at the 5th Annual Hartford Open Chess Tournament"
+    },
+    {
+      "title": "Dean`s List All Semesters",
+      "date": "2015-05-15",
+      "awarder": "Quinnipiac University",
+      "summary": "Won the 1st place at the 5th Annual Hartford Open Chess Tournament"
     }
 
     ],
   "publications": [],
   "skills": [
     {
-      "name": "Programming",
-      "level": "Junior",
+      "name": "Software Engineering",
+      "level": "Junior / Mid-Level",
       "keywords": [
+        "OOP - Object Oriented Principles",
+        "Agile software methodology",
+        "Design Patterns",
         "Java",
+        "Java2EE",
+        "SOAP",
+        "REST",
         "Android",
         "PHP",
         "LAMP",
         "JavaScript",
-        "OOP",
-        "Design Patterns",
-        "SQL",
+        "Node.js",
+        "SQL - MySQL"
+      ]
+    },
+    {
+      "name": "Web Development",
+      "level": "Junior / Mid-Level",
+      "keywords": [
         "HTML",
-        "CSS"
+        "CSS",
+        "JavaScript",
+        "JS Frameworks and Libraries",
+        "Node.js",
+        "PHP",
+        "LAMP",
+        "SQL - MySQL"
+      ]
+    },
+    {
+      "name": "Scripting & Testing",
+      "level": "Junior / Mid-Level",
+      "keywords": [
+        "Scripting & Documentation",
+        "Unix",
+        "Linux",
+        "Windows"
       ]
     }
   ],
