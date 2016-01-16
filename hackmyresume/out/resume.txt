@@ -4,11 +4,17 @@ Tel: 724-638-7367
 Web: http://www.ahmetshen.us/
 ================================================================================
 
-Has earned B.S. in Computer Science from Quinnipiac University, Hamden, CT in 2015. Recent grad looking for a Software Developer position.
+Qualifications Summary: 
+Gained strong coding skills while working on projects by following Object Oriented Design principles, using Algorithms, and Design Patterns
+Adapted clean and effective coding skills while working on  projects while being organized and detail oriented.
+Served as the Scrum Master of two projects and worked collaboratively with the project team by using Git and Agile Methodology while strategizing and prioritizing effectively to accomplish multiple tasks and stay calm under pressure
+Developed and programmed Java, Android, and Web applications
 
 SKILLS -------------------------------------------------------------------------
 
-  - Programming: Java Android PHP LAMP JavaScript OOP Design Patterns SQL HTML CSS 
+  - Software Engineering: OOP - Object Oriented Principles Agile software methodology Design Patterns Java Java2EE SOAP REST Android PHP LAMP JavaScript Node.js SQL - MySQL 
+  - Web Development: HTML CSS JavaScript JS Frameworks and Libraries Node.js PHP LAMP SQL - MySQL 
+  - Scripting & Testing: Scripting & Documentation Unix Linux Windows 
 
 EMPLOYMENT ---------------------------------------------------------------------
 
@@ -18,11 +24,12 @@ Worked with PHP, LAMP, JavaScript, HTML, CSS
   - A100 Website Revamp (2014): Made improvements to the A100 Program website
   - A100 Application Form Creation (2014): Programmed form user input validation
 
-Software Engineer, Quinnipiac University (2012-12 -- 2015-05)
+Software Engineer, Quinnipiac University (2013-01 -- 2015-05)
 Software Development with OOP and Design Patterns following Agile Development Methods
   - Tetris Game with Intensive OOP: Created Java game following OOPs; using Design Patterns and UML tools.
   - "Humans of New York Pictures" Application: Created Java Application using JDBC
   - Tank Wars Game: Worked on this ongoing Java game project following Agile Development Methodology and worked as the Scrum Master of my team. Also used Git and Asana. Made improvements to poorly coded application using OOPs.
+  - 
 
 
 EDUCATION ----------------------------------------------------------------------
@@ -38,3 +45,11 @@ Ranked the 742nd among 1.45 million, Turkey National University Entrance Exams (
 Ranked the 742nd among 1.45 million people, National University Entrance Exams, Turkey, 2009.
 1st place, www.uschess.org (Jan 2015)
 Won the 1st place at the 5th Annual Hartford Open Chess Tournament
+Dean`s List All Semesters, Quinnipiac University (May 2015)
+Won the 1st place at the 5th Annual Hartford Open Chess Tournament
+ 
+ 
+================================================================================
+ 
+ 
+Please note this resume is formatted in  plain text for  use in applicant tracking systems (ATS). For more eye appealing resume please visit http://www.ahmetshen.us or email me at ahmetshen.us@gmail.com so I can send you a nicer version
