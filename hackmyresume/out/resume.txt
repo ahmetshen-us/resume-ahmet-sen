@@ -9,15 +9,15 @@ Solid foundation in computer science, with strong competencies in Data Structure
 Gained strong coding skills  while working on projects by following Object Oriented Design principles, using Algorithms, and Design Patterns.
 Adapted clean and effective coding skills while working on  projects while being organized and detail oriented.
 Served as the Scrum Master of two projects and worked collaboratively with the project team by using Git and Agile Methodology (following Software Development lifecycles in collaboration and using best practices) while strategizing and prioritizing effectively to accomplish multiple tasks and stay calm under pressure.
-Production experience with Java, Android, Web applications, and relational databases.
+Production experience with Java, Android, Web applications, and relational databases (RDBMS design and querying).
 Implemented front-end web applications that carries a high quality user experience.
 Developed applications while performing Written Communication Skills
 
 SKILLS -------------------------------------------------------------------------
 
-  - Software Engineering: Programming Data Structures Algorithms Software Design OOP - Object Oriented Principles Agile software methodology Design Patterns SDLC - Software Development Life Cycle Java Java2EE Web Technologies SOAP REST XML Android PHP LAMP JavaScript jQuery Node.js JSON SQL - MySQL 
+  - Software Developer: Programming Data Structures Algorithms Software Design OOP - Object Oriented Principles Agile software methodology Design Patterns MVC SDLC - Software Development Life Cycle APIs Java Java2EE Web Technologies SOAP REST XML Android C PHP LAMP JavaScript jQuery Node.js JSON SQL - MySQL Version Control - Git & GitHub 
   - Web Development: HTML CSS JavaScript JS Frameworks and Libraries Node.js PHP LAMP SQL - MySQL 
-  - Scripting & Testing: Scripting & Documentation Unix Linux Windows 
+  - Scripting & Testing: Scripting & Documentation Unix Linux Windows Networking TCP UDP 
 
 EMPLOYMENT ---------------------------------------------------------------------
 
