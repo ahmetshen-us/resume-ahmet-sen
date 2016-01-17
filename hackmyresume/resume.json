@@ -109,10 +109,11 @@
       "level": "Junior / Mid-Level",
       "keywords": [
         "Programming",
+        "Problem Solving",
         "Data Structures",
         "Algorithms",
         "Software Design",
-        "OOP - Object Oriented Principles",
+        "OOP - Object Oriented Principles, Object Oriented Programming",
         "Agile software methodology",
         "Design Patterns",
         "MVC",
@@ -161,6 +162,14 @@
         "Networking",
         "TCP",
         "UDP"
+      ]
+    },{
+      "name": "Technical Skills",
+      "level": "Advanced",
+      "keywords": [
+        "Eclipse",
+        "Android Studio"
+
       ]
     }
   ],
