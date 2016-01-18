@@ -15,9 +15,10 @@ Developed applications while performing Written Communication Skills
 
 SKILLS -------------------------------------------------------------------------
 
-  - Software Developer: Programming Data Structures Algorithms Software Design OOP - Object Oriented Principles Agile software methodology Design Patterns MVC SDLC - Software Development Life Cycle APIs Java Java2EE Web Technologies SOAP REST XML Android C PHP LAMP JavaScript jQuery Node.js JSON SQL - MySQL Version Control - Git & GitHub 
+  - Software Developer: Programming Problem Solving Data Structures Algorithms Software Design OOP - Object Oriented Principles, Object Oriented Programming Agile software methodology Design Patterns MVC SDLC - Software Development Life Cycle APIs Java Java2EE Web Technologies SOAP REST XML Android C PHP LAMP JavaScript jQuery Node.js JSON SQL - MySQL Version Control - Git & GitHub 
   - Web Development: HTML CSS JavaScript JS Frameworks and Libraries Node.js PHP LAMP SQL - MySQL 
   - Scripting & Testing: Scripting & Documentation Unix Linux Windows Networking TCP UDP 
+  - Technical Skills: Eclipse Android Studio 
 
 EMPLOYMENT ---------------------------------------------------------------------
 
