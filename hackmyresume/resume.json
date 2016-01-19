@@ -63,7 +63,7 @@
   ],
   "volunteer": [],
   "education": [
-  {
+    {
       "institution": "Free Code Camp",
       "area": "Full Stack Web Development And Computer Software Engineering",
       "studyType": "Master",
@@ -71,13 +71,12 @@
       "endDate": "2017-05-15",
       "gpa": "4.00",
       "courses": [
-     "HTML5 and CSS",
-     "Responsive Design with Bootstrap",
-     "jQuery","Basic JavaScript",
-     "Object Oriented and Functional Programming",
-     "Basic Algorithm Scripting",
-     "Basic Front End Development Projects"
-
+        "HTML5 and CSS",
+        "Responsive Design with Bootstrap",
+        "jQuery","Basic JavaScript",
+        "Object Oriented and Functional Programming",
+        "Basic Algorithm Scripting",
+        "Basic Front End Development Projects"
       ]
 
     },
@@ -101,86 +100,86 @@
     }
   ],
   "awards": [{
-      "title": "Ranked the 742nd among 1.45 million",
-      "date": "2009-06-15",
-      "awarder": "Turkey National University Entrance Exams",
-      "summary": "Ranked the 742nd among 1.45 million people, National University Entrance Exams, Turkey, 2009."
-    },
-    {
-      "title": "1st place",
-      "date": "2015-01-01",
-      "awarder": "www.uschess.org",
-      "summary": "Won the 1st place at the 5th Annual Hartford Open Chess Tournament"
-    },
-    {
-      "title": "Dean`s List All Semesters",
-      "date": "2015-05-15",
-      "awarder": "Quinnipiac University",
-      "summary": "Won the 1st place at the 5th Annual Hartford Open Chess Tournament"
-    }
+    "title": "Ranked the 742nd among 1.45 million",
+    "date": "2009-06-15",
+    "awarder": "Turkey National University Entrance Exams",
+    "summary": "Ranked the 742nd among 1.45 million people, National University Entrance Exams, Turkey, 2009."
+  },
+  {
+    "title": "1st place",
+    "date": "2015-01-01",
+    "awarder": "www.uschess.org",
+    "summary": "Won the 1st place at the 5th Annual Hartford Open Chess Tournament"
+  },
+  {
+    "title": "Dean`s List All Semesters",
+    "date": "2015-05-15",
+    "awarder": "Quinnipiac University",
+    "summary": "Won the 1st place at the 5th Annual Hartford Open Chess Tournament"
+  }
 
-    ],
-  "publications": [],
-  "skills": [
-    {
-      "name": "Software Developer",
-      "level": "Junior / Mid-Level",
-      "keywords": [
-        "Programming",
-        "Problem Solving",
-        "Data Structures",
-        "Algorithms",
-        "Software Design",
-        "OOP - Object Oriented Principles, Object Oriented Programming",
-        "Agile software methodology",
-        "Design Patterns",
-        "MVC",
-        "SDLC - Software Development Life Cycle",
-        "APIs",
-        "Java",
-        "Java2EE",
-        "Web Technologies",
-        "SOAP",
-        "REST",
-        "XML",
-        "Android",
-        "C",
-        "PHP",
-        "LAMP",
-        "JavaScript",
-        "jQuery",
-        "Node.js",
-        "JSON",
-        "SQL - MySQL",
-        "Version Control - Git & GitHub"
-      ]
-    },
-    {
-      "name": "Web Development",
-      "level": "Junior / Mid-Level",
-      "keywords": [
-        "HTML",
-        "CSS",
-        "JavaScript",
-        "JS Frameworks and Libraries",
-        "Node.js",
-        "PHP",
-        "LAMP",
-        "SQL - MySQL"
-      ]
-    },
-    {
-      "name": "Scripting & Testing",
-      "level": "Junior / Mid-Level",
-      "keywords": [
-        "Scripting & Documentation",
-        "Unix",
-        "Linux",
-        "Windows",
-        "Networking",
-        "TCP",
-        "UDP"
-      ]
+],
+"publications": [],
+"skills": [
+  {
+    "name": "Software Developer",
+    "level": "Junior / Mid-Level",
+    "keywords": [
+      "Programming",
+      "Problem Solving",
+      "Data Structures",
+      "Algorithms",
+      "Software Design",
+      "OOP - Object Oriented Principles, Object Oriented Programming",
+      "Agile software methodology",
+      "Design Patterns",
+      "MVC",
+      "SDLC - Software Development Life Cycle",
+      "APIs",
+      "Java",
+      "Java2EE",
+      "Web Technologies",
+      "SOAP",
+      "REST",
+      "XML",
+      "Android",
+      "C",
+      "PHP",
+      "LAMP",
+      "JavaScript",
+      "jQuery",
+      "Node.js",
+      "JSON",
+      "SQL - MySQL",
+      "Version Control - Git & GitHub"
+    ]
+  },
+  {
+    "name": "Web Development",
+    "level": "Junior / Mid-Level",
+    "keywords": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "JS Frameworks and Libraries",
+      "Node.js",
+      "PHP",
+      "LAMP",
+      "SQL - MySQL"
+    ]
+  },
+  {
+    "name": "Scripting & Testing",
+    "level": "Junior / Mid-Level",
+    "keywords": [
+      "Scripting & Documentation",
+      "Unix",
+      "Linux",
+      "Windows",
+      "Networking",
+      "TCP",
+      "UDP"
+    ]
     },{
       "name": "Technical Skills",
       "level": "Advanced",

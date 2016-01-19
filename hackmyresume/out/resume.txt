@@ -38,8 +38,22 @@ Software Development with OOP and Design Patterns following Agile Development Me
 EDUCATION ----------------------------------------------------------------------
 
 Free Code Camp (2015-07 — 2017-05)
+        "HTML5 and CSS",
+        "Responsive Design with Bootstrap",
+        "jQuery","Basic JavaScript",
+        "Object Oriented and Functional Programming",
+        "Basic Algorithm Scripting",
+        "Basic Front End Development Projects"
 
 Quinnipiac University (2012-01 — 2015-05)
+        "Programming & Problem Solving",
+        "Data Structures & Abstraction",
+        "Computer Architecture & Organization",
+        "Algorithm Design & Analysis",
+        "Introduction to Software Development",
+        "Operating Systems & Systems Programming",
+        "Software Engineering Design & Development",
+        "Database Systems"
 
 
 SERVICE ------------------------------------------------------------------------
