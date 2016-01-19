@@ -63,6 +63,24 @@
   ],
   "volunteer": [],
   "education": [
+  {
+      "institution": "Free Code Camp",
+      "area": "Full Stack Web Development And Computer Software Engineering",
+      "studyType": "Master",
+      "startDate": "2015-07-15",
+      "endDate": "2017-05-15",
+      "gpa": "4.00",
+      "courses": [
+     "HTML5 and CSS",
+     "Responsive Design with Bootstrap",
+     "jQuery","Basic JavaScript",
+     "Object Oriented and Functional Programming",
+     "Basic Algorithm Scripting",
+     "Basic Front End Development Projects"
+
+      ]
+
+    },
     {
       "institution": "Quinnipiac University",
       "area": "Computer Science",
