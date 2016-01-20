@@ -123,7 +123,7 @@
 "skills": [
   {
     "name": "Software Developer",
-    "level": "Junior / Mid-Level",
+    "level": "Advanced",
     "keywords": [
       "Programming",
       "Problem Solving",
@@ -156,10 +156,11 @@
   },
   {
     "name": "Web Development",
-    "level": "Junior / Mid-Level",
+    "level": "Intermediate",
     "keywords": [
       "HTML",
       "CSS",
+      "LESS",
       "JavaScript",
       "JS Frameworks and Libraries",
       "Node.js",
@@ -169,10 +170,13 @@
     ]
   },
   {
-    "name": "Scripting & Testing",
-    "level": "Junior / Mid-Level",
+    "name": "Scripting & Testing & Debugging",
+    "level": "Intermediate",
     "keywords": [
       "Scripting & Documentation",
+      "Automation and Deployment",
+      "Asynchronous Testing",
+      "Injecting dependencies",
       "Unix",
       "Linux",
       "Windows",
@@ -185,7 +189,12 @@
       "level": "Advanced",
       "keywords": [
         "Eclipse",
-        "Android Studio"
+        "Android Studio",
+        "Unix & Linux File System",
+        "HTTP Module",
+        "HTTP Endpoints",
+        "npm",
+        "Web Servers - Express, GlassFish, Apache Tomcat"
 
       ]
     }
